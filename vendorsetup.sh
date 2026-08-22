@@ -1,0 +1,11 @@
+export FOX_AB_DEVICE=1
+export OF_AB_DEVICE_WITH_RECOVERY_PARTITION=1
+export OF_DEFAULT_KEYMASTER_VERSION=4.0
+
+export OF_STATUS_INDENT_LEFT=48
+
+export OF_USE_MAGISKBOOT=1
+export OF_DONT_PATCH_ENCRYPTED_DEVICE=1
+
+export OF_MAINTAINER="carbon-wolf"
+export MAINTAINER_URL="https://avatars.githubusercontent.com/u/59157769"

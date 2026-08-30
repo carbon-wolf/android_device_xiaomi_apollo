@@ -103,7 +103,6 @@ service vendor.qti.vibrator-1-2 /vendor/bin/hw/vendor.qti.hardware.vibrator@1.2-
     seclabel u:r:recovery:s0
 
 on boot
-    setprop sys.usb.config adb
     start health-hal-2-1
 
 on property:crypto.ready=0
